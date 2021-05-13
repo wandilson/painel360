@@ -1,6 +1,7 @@
 ### Padrão do Dashboard
 - [x] Adicionado o seeder com um usuário padrão
 - [ ] Redefinir Senha
+- [ ] Gestão de Times
 - [x] Configurações Gerais "***Usar Composer view***"
     - [x] link Facebook
     - [x] link Instagram
@@ -16,6 +17,7 @@
 ### Pacotes disponíveis para instalação
 - [x] Gerenciamento de Slider
 - [x] Institucional
+    - [ ] Imagens Gerais
 - [x] Empreendimentos
     - [x] Logo
     - [x] Foto Principal
@@ -25,3 +27,5 @@
     - [x] Vídeo
     - [x] Fotos Adicionais
 - [ ] Formulário de Contato
+- [ ] Faq "Tópicos de Informação"
+- [ ] Equipe "Lista de funcionários (Foto, Nome, E-mail, Whatsapp)"
