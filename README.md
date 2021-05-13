@@ -11,6 +11,13 @@
     - [x] Api Whatsapp
     - [x] Numero para Contato
 
+<br>
+
+### Customização Front-end
+    - [ ] Paleta de Cores "Tailwind"
+    - [ ] Layout Navbar
+    - [ ] Profile
+
 
 <br>
 
