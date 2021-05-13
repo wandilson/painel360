@@ -14,9 +14,9 @@
 <br>
 
 ### Customização Front-end
-    - [ ] Paleta de Cores "Tailwind"
-    - [ ] Layout Navbar
-    - [ ] Profile
+- [ ] Paleta de Cores "Tailwind"
+- [ ] Layout Navbar
+- [ ] Profile
 
 
 <br>
