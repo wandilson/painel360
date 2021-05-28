@@ -1,7 +1,9 @@
 ### Padrão do Dashboard
 - [x] Adicionado o seeder com um usuário padrão
+- [ ] Gerenciar usuários
 - [ ] Redefinir Senha
 - [ ] Gestão de Times
+- [x] Melhorias na capa do Adm
 - [x] Configurações Gerais "***Usar Composer view***"
     - [x] link Facebook
     - [x] link Instagram
@@ -10,6 +12,7 @@
     - [x] Endereço
     - [x] Api Whatsapp
     - [x] Numero para Contato
+
 
 <br>
 
@@ -36,3 +39,11 @@
 - [ ] Formulário de Contato
 - [ ] Faq "Tópicos de Informação"
 - [ ] Equipe "Lista de funcionários (Foto, Nome, E-mail, Whatsapp)"
+- [ ] Promoções
+
+
+<br>
+
+### Bugs
+- [ ] Ckeditor na aplicação
+- [ ] Loading somente ao clicar submit

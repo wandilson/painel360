@@ -24,7 +24,7 @@
                 @endif
             </div>
 
-            <div wire:loading class="w-full">
+            <div wire:loading wire:target="create" class="w-full">
                 <div class="bg-main-yellow rounded-lg text-white px-4 py-2 mb-3 text-xs">Processando informações...</div>
             </div>
 
